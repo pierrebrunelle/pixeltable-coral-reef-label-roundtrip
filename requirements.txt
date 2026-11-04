@@ -1,0 +1,5 @@
+pixeltable>=0.7.23
+pillow
+lancedb
+numpy
+pylance

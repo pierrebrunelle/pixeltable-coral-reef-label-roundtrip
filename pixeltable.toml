@@ -1,0 +1,17 @@
+# Pixeltable project configuration (https://docs.pixeltable.com).
+# Entry 1 is your local database. Entry 2 is a Pixeltable Cloud database:
+# replace 'pxt://<your-org>:<your-db>' with your own org and database before `pxt db update`.
+
+[pixeltable]
+psycopg_log_level = 'WARNING'
+
+[[pixeltable.database]]
+exclude = ['logs/**', '__pycache__/**', 'output/**', 'publish/**', 'data/**', 'probe_*', 'repro_*', 'scratch*']
+
+[[pixeltable.database]]
+name = 'pxt://<your-org>:<your-db>'
+cpu = 1
+memory_mb = 2048
+disk_gb = 10
+workers = 1
+exclude = ['.venv/**', '__pycache__/**', '*.pyc', '.git/**', 'logs/**', '.env*', 'output/**', 'publish/**', 'data/**', 'probe_*', 'repro_*', 'scratch*']

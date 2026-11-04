@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use or adapt this example app, please cite it using these metadata."
+type: software
+title: "Coral Reef Survey Photos labeling round-trip built with Pixeltable"
+abstract: "Segment coral-reef survey photos, send the model's boxes to Label Studio as pre-annotations, re-import the reviewed labels and diff them against the model, with COCO and LanceDB exports, all as Pixeltable tables and computed columns."
+authors:
+  - given-names: "Pierre"
+    family-names: "Brunelle"
+repository-code: "https://github.com/pierrebrunelle/pixeltable-coral-reef-label-roundtrip"
+url: "https://pierrebrunelle.github.io/awesome-pixeltable-apps/"
+license: Apache-2.0
+version: "0.1.0"
+date-released: 2026-11-04
+keywords:
+  - "pixeltable"
+  - "pixeltable-example"
+  - "python"
+  - "data-labeling"
+  - "label-studio"
+  - "coco"
+  - "lancedb"
+  - "coral-reef"
+  - "image-segmentation"
+  - "udf"

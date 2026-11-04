@@ -1,0 +1,353 @@
+{
+ "reef-001": {
+  "site": "North Wall",
+  "depth_m": 6.5,
+  "regions": [
+   {
+    "label": "hard_coral",
+    "bbox": [
+     278,
+     39,
+     113,
+     47
+    ]
+   },
+   {
+    "label": "soft_coral",
+    "bbox": [
+     40,
+     147,
+     67,
+     63
+    ]
+   },
+   {
+    "label": "algae",
+    "bbox": [
+     237,
+     174,
+     69,
+     90
+    ]
+   },
+   {
+    "label": "rubble",
+    "bbox": [
+     111,
+     225,
+     87,
+     74
+    ]
+   },
+   {
+    "label": "bleached_coral",
+    "bbox": [
+     89,
+     36,
+     61,
+     61
+    ]
+   },
+   {
+    "label": "hard_coral",
+    "bbox": [
+     32,
+     329,
+     16,
+     19
+    ]
+   }
+  ]
+ },
+ "reef-002": {
+  "site": "North Wall",
+  "depth_m": 9.0,
+  "regions": [
+   {
+    "label": "soft_coral",
+    "bbox": [
+     439,
+     247,
+     55,
+     66
+    ]
+   },
+   {
+    "label": "algae",
+    "bbox": [
+     74,
+     197,
+     69,
+     65
+    ]
+   },
+   {
+    "label": "rubble",
+    "bbox": [
+     224,
+     195,
+     85,
+     71
+    ]
+   },
+   {
+    "label": "bleached_coral",
+    "bbox": [
+     92,
+     109,
+     70,
+     48
+    ]
+   },
+   {
+    "label": "hard_coral",
+    "bbox": [
+     345,
+     182,
+     60,
+     54
+    ]
+   },
+   {
+    "label": "soft_coral",
+    "bbox": [
+     33,
+     268,
+     15,
+     19
+    ]
+   }
+  ]
+ },
+ "reef-003": {
+  "site": "Lagoon Patch",
+  "depth_m": 3.0,
+  "regions": [
+   {
+    "label": "algae",
+    "bbox": [
+     120,
+     297,
+     80,
+     63
+    ]
+   },
+   {
+    "label": "rubble",
+    "bbox": [
+     328,
+     121,
+     84,
+     51
+    ]
+   },
+   {
+    "label": "bleached_coral",
+    "bbox": [
+     289,
+     192,
+     83,
+     74
+    ]
+   },
+   {
+    "label": "hard_coral",
+    "bbox": [
+     85,
+     42,
+     108,
+     67
+    ]
+   },
+   {
+    "label": "soft_coral",
+    "bbox": [
+     94,
+     149,
+     116,
+     74
+    ]
+   },
+   {
+    "label": "algae",
+    "bbox": [
+     16,
+     252,
+     20,
+     20
+    ]
+   }
+  ]
+ },
+ "reef-004": {
+  "site": "Lagoon Patch",
+  "depth_m": 4.5,
+  "regions": [
+   {
+    "label": "rubble",
+    "bbox": [
+     39,
+     178,
+     53,
+     75
+    ]
+   },
+   {
+    "label": "bleached_coral",
+    "bbox": [
+     105,
+     143,
+     59,
+     66
+    ]
+   },
+   {
+    "label": "hard_coral",
+    "bbox": [
+     379,
+     127,
+     67,
+     59
+    ]
+   },
+   {
+    "label": "soft_coral",
+    "bbox": [
+     264,
+     101,
+     71,
+     63
+    ]
+   },
+   {
+    "label": "algae",
+    "bbox": [
+     84,
+     12,
+     20,
+     16
+    ]
+   }
+  ]
+ },
+ "reef-005": {
+  "site": "Outer Slope",
+  "depth_m": 12.0,
+  "regions": [
+   {
+    "label": "bleached_coral",
+    "bbox": [
+     44,
+     97,
+     116,
+     82
+    ]
+   },
+   {
+    "label": "hard_coral",
+    "bbox": [
+     184,
+     105,
+     71,
+     40
+    ]
+   },
+   {
+    "label": "soft_coral",
+    "bbox": [
+     369,
+     213,
+     92,
+     55
+    ]
+   },
+   {
+    "label": "algae",
+    "bbox": [
+     186,
+     10,
+     68,
+     76
+    ]
+   },
+   {
+    "label": "rubble",
+    "bbox": [
+     126,
+     244,
+     69,
+     63
+    ]
+   },
+   {
+    "label": "bleached_coral",
+    "bbox": [
+     252,
+     178,
+     20,
+     14
+    ]
+   }
+  ]
+ },
+ "reef-006": {
+  "site": "Outer Slope",
+  "depth_m": 15.5,
+  "regions": [
+   {
+    "label": "hard_coral",
+    "bbox": [
+     149,
+     90,
+     66,
+     73
+    ]
+   },
+   {
+    "label": "soft_coral",
+    "bbox": [
+     157,
+     20,
+     113,
+     45
+    ]
+   },
+   {
+    "label": "algae",
+    "bbox": [
+     321,
+     16,
+     78,
+     61
+    ]
+   },
+   {
+    "label": "rubble",
+    "bbox": [
+     22,
+     147,
+     59,
+     80
+    ]
+   },
+   {
+    "label": "bleached_coral",
+    "bbox": [
+     308,
+     182,
+     77,
+     88
+    ]
+   },
+   {
+    "label": "hard_coral",
+    "bbox": [
+     53,
+     352,
+     14,
+     17
+    ]
+   }
+  ]
+ }
+}
